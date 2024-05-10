@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on MERN Stack Project<br>🌱 I’m currently learning React<br>💬 Ask me about JavaScript, CSS, React, Node JS<br>⚡ Fun fact - I love Anime and Football
+🔭 I’m currently working on MERN Stack<br>👯 I’m looking to collaborate on MERN Stack Project<br>🌱 I’m currently learning Next Js and TypeScript<br>💬 Ask me about JavaScript, CSS, React, Node JS, Express Js, Tailwind Css,<br>⚡ Fun fact - I love Anime and Football
 
 
 ## 🌐 Socials:
